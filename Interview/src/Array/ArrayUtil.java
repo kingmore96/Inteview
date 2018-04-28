@@ -1,6 +1,7 @@
 package Array;
 
 public class ArrayUtil {
+	//ArrayĞŞ¸Ä
 	public static void rotateRight(int[][] matrix,int n){
 		for(int layer = 0;layer< n/2;layer++){
 			int first = layer;
